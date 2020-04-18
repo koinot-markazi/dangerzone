@@ -1,0 +1,184 @@
+
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Circle",
+                "coordinates": [
+                    69.24338355891037,
+                    41.32840930162856 
+                ],
+                "radius": 500
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.24338355891037,
+                    41.32840930162856 
+                ]
+            },
+            "properties": {
+                "balloonContent": "Заразившихся: 64",
+                "hintContent": "Опасно"
+            },
+            "options": {
+                "preset": "islands#redCircleDotIcon"
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Circle",
+                "coordinates": [
+                    69.23171058527754,
+                    41.3302208307008 
+                ],
+                "radius": 500
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.23171058527754,
+                    41.3302208307008 
+                ]
+            },
+            "properties": {
+                "balloonContent": "Заразившихся: 12",
+                "hintContent": "Опасно"
+            },
+            "options": {
+                "preset": "islands#redCircleDotIcon"
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Circle",
+                "coordinates": [
+                    69.25127998225021,
+                    41.338242706537336 
+                ],
+                "radius": 1500
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.25127998225021,
+                    41.338242706537336 
+                ]
+            },
+            "properties": {
+                "balloonContent": "Заразившихся: 3",
+                "hintContent": "Опасно"
+            },
+            "options": {
+                "preset": "islands#redCircleDotIcon"
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Circle",
+                "coordinates": [
+                    69.22106757990646,
+                    41.312103256236576 
+                ],
+                "radius": 750
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.22106757990646,
+                    41.312103256236576 
+                ]
+            },
+            "properties": {
+                "balloonContent": "Заразившихся: 34",
+                "hintContent": "Опасно"
+            },
+            "options": {
+                "preset": "islands#redCircleDotIcon"
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Circle",
+                "coordinates": [
+                    69.30861488215257,
+                    41.37161337129774 
+                ],
+                "radius": 1000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.30861488215257,
+                    41.37161337129774 
+                ]
+            },
+            "properties": {
+                "balloonContent": "Взято под карантин: 12",
+                "hintContent": "Потецниально опасно"
+            },
+            "options": {
+                "preset": "islands#yellowCircleDotIcon"
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Circle",
+                "coordinates": [
+                    69.14725318781662,
+                    41.30951461703947 
+                ],
+                "radius": 500
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.14725318781662,
+                    41.30951461703947 
+                ]
+            },
+            "properties": {
+                "balloonContent": "Взято под карантин: 12",
+                "hintContent": "Потецниально опасно"
+            },
+            "options": {
+                "preset": "islands#yellowCircleDotIcon"
+            }
+        }
+    ]
+}
